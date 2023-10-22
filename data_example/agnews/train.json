@@ -1,0 +1,104 @@
+{
+    "0": {
+        "label": 2,
+        "data": {
+            "text": "Reuters - Short-sellers, Wall Street's dwindling band of ultra-cynics, are seeing green again."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "1": {
+        "label": 2,
+        "data": {
+            "text": "Reuters - Private investment firm Carlyle Group, which has a reputation for making well-timed and occasionally controversial plays in the defense industry, has quietly placed its bets on another part of the market."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            2,
+            -1
+        ]
+    },
+    "2": {
+        "label": 2,
+        "data": {
+            "text": "Reuters - Soaring crude prices plus worries about the economy and the outlook for earnings are expected to hang over the stock market next week during the depth of the summer doldrums."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            2,
+            -1
+        ]
+    },
+    "3": {
+        "label": 2,
+        "data": {
+            "text": "Reuters - Authorities have halted oil export flows from the main pipeline in southern Iraq after intelligence showed a rebel militia could strike infrastructure, an oil official said on Saturday."
+        },
+        "weak_labels": [
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1
+        ]
+    },
+    "4": {
+        "label": 2,
+        "data": {
+            "text": "AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections."
+        },
+        "weak_labels": [
+            -1,
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            2,
+            -1
+        ]
+    },
+    "5": {
+        "label": 2,
+        "data": {
+            "text": "Reuters - Stocks ended slightly higher on Friday but stayed near lows for the year as oil prices surged past  #36;46 a barrel, offsetting a positive outlook from computer maker Dell Inc. (DELL.O)"
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            3,
+            3,
+            2,
+            -1
+        ]
+    }
+}

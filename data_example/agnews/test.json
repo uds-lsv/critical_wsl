@@ -1,0 +1,70 @@
+{
+    "108000": {
+        "label": 2,
+        "data": {
+            "text": "The IMF has said it will negotiate with Argentina after  the country's debt swap, that was delayed until 17 January."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "108001": {
+        "label": 2,
+        "data": {
+            "text": "Finnish mobile giant Nokia is losing the head of its networks division, the second senior executive to leave the unit in two weeks."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1
+        ]
+    },
+    "108002": {
+        "label": 2,
+        "data": {
+            "text": "The Halifax bank, Britain's biggest mortgage lender, predicts a much-feared fall in the rampant UK property market."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            2,
+            -1
+        ]
+    },
+    "108003": {
+        "label": 2,
+        "data": {
+            "text": "AFP - Eurozone retail sales rose 0.7 percent in October from September but were down 0.2 percent compared with October 2003, the European statistics agency Eurostat reported."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            2,
+            -1
+        ]
+    }
+}

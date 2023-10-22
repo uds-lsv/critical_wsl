@@ -1,0 +1,6 @@
+transformers==4.21.3
+snorkel==0.9.8
+datasets==1.18.4
+protobuf==3.19.0
+adapter-transformers
+wandb

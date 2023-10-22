@@ -1,0 +1,104 @@
+{
+    "96000": {
+        "label": 3,
+        "data": {
+            "text": "The ability of early human ancestors to run long distances may have influenced the transition to today's body form, researchers report."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "96001": {
+        "label": 1,
+        "data": {
+            "text": "AP - Anthony Harris scored 18 of his career-high 23 points in the second half to help Miami upset No. 19 Florida 72-65 Saturday and give first-year coach Frank Haith his biggest victory."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "96002": {
+        "label": 3,
+        "data": {
+            "text": "Archaeologists in South Carolina announced radiocarbon dates suggesting that people made tools near the Savannah River about 50,000 years ago."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "96003": {
+        "label": 3,
+        "data": {
+            "text": "Dr. Joseph Weiss was a psychoanalyst and researcher who helped develop an influential theory involving ways that patients confront psychological trauma."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            3,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "96004": {
+        "label": 0,
+        "data": {
+            "text": "AFP - Bollywood's Aishwarya Rai is set to star in a Hollywood blockbuster called \"Taj Mahal\", the famous monument to love built by Mughal emperor Shah Jahan."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "96005": {
+        "label": 3,
+        "data": {
+            "text": "The generational divide becomes apparent as families start to think about gift-giving holidays. Advice for shoppers of all ages."
+        },
+        "weak_labels": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+}
