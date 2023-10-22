@@ -6,11 +6,27 @@ import json
 import pickle
 import datetime
 from trainers.vanilla_trainer import VanillaTrainer
+from trainers.vanilla_small_validation_trainer import VanillaSmallValidationTrainer
+from trainers.cosine_trainer import CosineTrainer
+from trainers.cosine_ner_trainer import CosineNERTrainer
+from trainers.l2r_trainer import LearnToReweightTrainer
+from trainers.l2r_ner_trainer import LearnToReweightNERTrainer
+
 
 
 def create_trainer(args, logger, log_dir, random_state):
     if args.trainer_name == 'vanilla':
         trainer = VanillaTrainer(args, logger, log_dir, random_state)
+    elif args.trainer_name == 'vanilla_small_validation':
+        trainer = VanillaSmallValidationTrainer(args, logger, log_dir, random_state)
+    elif args.trainer_name == 'cosine':
+        trainer = CosineTrainer(args, logger, log_dir, random_state)
+    elif args.trainer_name == 'cosine_ner':
+        trainer = CosineNERTrainer(args, logger, log_dir, random_state)
+    elif args.trainer_name == 'l2r':
+        trainer = LearnToReweightTrainer(args, logger, log_dir, random_state)
+    elif args.trainer_name == 'l2r_ner':
+        trainer = LearnToReweightNERTrainer(args, logger, log_dir, random_state)
     else:
         raise NotImplementedError('Unknown Trainer Name')
 
